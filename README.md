@@ -7,13 +7,17 @@ Some book and paper about machine learning &amp;&amp; deep learning and bigdata
 
 ### Paper Translation
 01.[Support Vector Clustering](http://blog.csdn.net/roguesir/article/details/75007749)
+
 02.[Convolutional Clustering for Unsupervised Learning](http://blog.csdn.net/roguesir/article/details/72842958)
+
 03.[Very Deep Convolutional Network For Large-Scale Image Recognition(VGG)](http://blog.csdn.net/roguesir/article/details/77470043)
 
 ### Paper Note
 01.[Very Deep Convolutional Networks for Large-Scale Image Recognition(VGG)](http://blog.csdn.net/roguesir/article/details/77945732)
+
 02.[Convolutional Clustering for Unsupervised Learning ](http://blog.csdn.net/roguesir/article/details/73681885)
 
 ### Book Sharing
 - 算法大全
+
 01.[线性规划](https://pan.baidu.com/s/1fhjNNBuH2PFjejzClbj3Sg)
