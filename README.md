@@ -5,4 +5,4 @@ Some book and paper about machine learning &amp;&amp; deep learning and bigdata
 
 - [Paper-Reading](https://github.com/roguesir/Book-Paper-Sharing/blob/master/Paper-Reading.md)
 
-- [Book Sharing](https://github.com/roguesir/Book-Paper-Sharing/blob/master/Book-Sharing.md)
+- [Book-Sharing](https://github.com/roguesir/Book-Paper-Sharing/blob/master/Book-Sharing.md)
