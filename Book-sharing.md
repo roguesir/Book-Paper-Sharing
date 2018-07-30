@@ -1,4 +1,5 @@
-### 算法大全
+### Algorithm 
+- 算法大全
 
 01.[线性规划](https://pan.baidu.com/s/1Bbj0ssevhXPymM2Pa10E2Q)
 
@@ -40,4 +41,5 @@
 
 20.[偏微分方程的数值解](https://pan.baidu.com/s/1alanw1N0HlkDL0RSBQ7Qwg)
 
-
+### Programming
+1. [Scala编程-中文版](https://pan.baidu.com/s/1bXX7cIdJCg4rWOmzTuPSCg) 
